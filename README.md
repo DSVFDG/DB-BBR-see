@@ -80,7 +80,7 @@ A: 放心，DBR + FQ 是最常见的方案，适用于大多数场景～
 🎉 **快来体验不一样的 BBR 管理工具吧！** 🎉  
 ## Star History
 
-<a href="https://star-history.com/#byJoey/Actions-bbr-v3&Timeline">
+<a href="https://star-history.com/#Tony/Actions-bbr-v3&Timeline">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=byJoey/Actions-bbr-v3&type=Timeline" />
